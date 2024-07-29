@@ -1,6 +1,6 @@
-Telegram Bot, который возвращает 3 рандомные фото Flickr
+Telegram Bot, который возвращает 2 рандомные фото Flickr
 
-Бот работает какая IHostedService
+Бот работает как IHostedService
 
 t.me/FlickrRandomPhotoBot
 
